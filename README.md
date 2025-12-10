@@ -29,8 +29,18 @@ The site is live here: [balubalaji04.github.io/portfolio](https://balubalaji04.g
 
 ---
 
-## 📂 Project Structure
-portfolio/ │── index.html        # Main HTML file │── style.css         # Custom CSS styles │── script.js         # JavaScript functionality │── UpdatedBalajiResume04.pdf  # Resume file
+
+## 🚀 Deployment
+This site is deployed using **GitHub Pages**:
+
+1. Push code to GitHub repository.
+2. Go to **Settings → Pages**.
+3. Select branch `main` and folder `/root`.
+4. Save → Your site is live at:
+
+
+
+
 
 ---
 
@@ -67,7 +77,3 @@ https://balubalaji04.github.io/portfolio
 ## 📜 License
 This project is open source and available under the [MIT License](LICENSE).
 
-
-
-👉 You can copy this into a file named README.md in your repo root.
-Would you like me to also add badges (like GitHub Pages status, technologies used) at the top of the README to make it more visually appealing for recruiters?
